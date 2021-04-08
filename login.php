@@ -39,7 +39,7 @@
         background: #ececec;
         box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
         padding: 30px;	
-        position: relative;	
+        position: absolute;	
     }
 	.login-form h2 {
 		font-size: 22px;
