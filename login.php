@@ -11,7 +11,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
 <style>
 	body {
-		color: #fff;
+		color: grey;
 		background: #d47677;
 	}
 	.form-control {
